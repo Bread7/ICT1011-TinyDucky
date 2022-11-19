@@ -34,4 +34,4 @@ Once code uploaded, press the bottom left button to access the menu.
  [Ambrose Goh](https://github.com/halfcoder0)\
  [Ivan Che](https://github.com/slymice)\
  Wan Weilon\
- Arthur Lee\
+ Arthur Lee
